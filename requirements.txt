@@ -41,6 +41,7 @@ ipywidgets==8.1.5
 isoduration==20.11.0
 jedi==0.19.2
 Jinja2==3.1.5
+joblib==1.4.2
 json5==0.10.0
 jsonpointer==3.0.0
 jsonschema==4.23.0
@@ -106,6 +107,8 @@ rfc3339-validator==0.1.4
 rfc3986-validator==0.1.1
 rich==13.9.4
 rpds-py==0.22.3
+scikit-learn==1.6.1
+scipy==1.15.1
 Send2Trash==1.8.3
 six==1.17.0
 smmap==5.0.1
@@ -120,6 +123,7 @@ tensorflow==2.18.0
 tensorflow-io-gcs-filesystem==0.37.1
 termcolor==2.5.0
 terminado==0.18.1
+threadpoolctl==3.5.0
 tinycss2==1.4.0
 toml==0.10.2
 tornado==6.4.2
